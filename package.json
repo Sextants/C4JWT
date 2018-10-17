@@ -1,0 +1,30 @@
+{
+  "name": "c4jwt",
+  "version": "0.0.1",
+  "description": "C4Framework C4JWT",
+  "main": "out",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sextants/C4JWT.git"
+  },
+  "keywords": [
+    "C4Framework",
+    "JWT"
+  ],
+  "author": "Sextant",
+  "bugs": {
+    "url": "https://github.com/Sextants/C4JWT.git"
+  },
+  "dependencies": {
+    "@types/ioredis": "^3.2.8",
+    "@types/jsonwebtoken": "^7.2.7",
+    "@types/uuid": "^3.4.3",
+    "c4utils": "0.0.2",
+    "ioredis": "^3.2.2",
+    "jsonwebtoken": "^8.2.2",
+    "uuid": "^3.2.1"
+  }
+}
