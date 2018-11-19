@@ -1,6 +1,6 @@
 {
   "name": "c4jwt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "C4Framework C4JWT",
   "main": "out",
   "scripts": {
@@ -22,7 +22,7 @@
     "@types/ioredis": "^3.2.8",
     "@types/jsonwebtoken": "^7.2.7",
     "@types/uuid": "^3.4.3",
-    "c4utils": "0.0.2",
+    "c4utils": "0.0.4",
     "ioredis": "^3.2.2",
     "jsonwebtoken": "^8.2.2",
     "uuid": "^3.2.1"
